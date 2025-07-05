@@ -1,12 +1,19 @@
+```
+    ___   _____ __  __ ___    ____     ____  ____ ___    _   __
+   /   | / ___// / / //   |  / __ \   / __ \/  _//   |  / | / /
+  / /| | \__ \/ /_/ // /| | / /_/ /  / / / // / / /| | /  |/ / 
+ / ___ |___/ / __  // ___ |/ _, _/  / /_/ // / / ___ |/ /|  /  
+/_/  |_/____/_/ /_//_/  |_/_/ |_|  /_____/___//_/  |_/_/ |_/   
+```
+
+
 <h1 align="center">🕶️ Welcome to My Digital Lair</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&lines=Hacker.+Developer.+Pentester.+Always+Learning."/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60%" />
-</p>
+
 
 ---
 
