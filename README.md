@@ -6,59 +6,173 @@
 /_/  |_/____/_/ /_//_/  |_/_/ |_|  /_____/___//_/  |_/_/ |_/   
 ```
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=root%40target%3A~%24+whoami;PENETRATION+TESTER;EXPLOIT+DEVELOPER;SECURITY+RESEARCHER;ACCESS+GRANTED..."/>
+</div>
 
-<h1 align="center">🕶️ Welcome to My Digital Lair</h1>
+```bash
+┌─[root@matrix]─[~]
+└──╼ cat /etc/ashar_dian.conf
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&lines=Hacker.+Developer.+Pentester.+Always+Learning."/>
-</p>
+### 🚨 **CLASSIFIED PROFILE** 🚨
 
+```yaml
+Name: ASHAR DIAN
+Role: Cybersecurity Specialist
+Status: [ACTIVE]
+Location: [ENCRYPTED]
+Clearance: TOP SECRET
+```
 
+<div align="center">
+  
+![Matrix](https://img.shields.io/badge/MATRIX-CONNECTED-00FF41?style=for-the-badge&logo=matrix&logoColor=black)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=hackaday&logoColor=black)
+![Threat](https://img.shields.io/badge/THREAT_LEVEL-MAXIMUM-FF0000?style=for-the-badge&logo=skull&logoColor=white)
 
----
-
-### 🛡️ About Me
-
-- 👤 Cybersecurity Explorer
-- 🕵️ Passionate about Offensive Security
-- ⚡ Minimalist & Curious
-
----
-
-### 🧰 Tech Arsenal
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnubash&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/-Nmap-000?style=for-the-badge&logo=ghostery&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/-Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=00FF00"/>
-</p>
+</div>
 
 ---
 
-### 🕸️ Connect with Me
+### 🎯 **OPERATIONAL OBJECTIVES**
 
-<p>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
-  </a>
-</p>
+```console
+[+] Penetration Testing & Vulnerability Assessment
+[+] Red Team Operations & Social Engineering
+[+] Malware Analysis & Reverse Engineering
+[+] Digital Forensics & Incident Response
+[+] Zero-day Research & Exploit Development
+```
+
+### ⚡ **TECHNICAL ARSENAL**
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### 🔓 **EXPLOIT STATS**
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+```bash
+┌─[SYSTEM INFO]─────────────────┐
+│  Vulnerabilities Found: 1337+ │
+│  Systems Compromised: ████    │
+│  CVEs Discovered: CLASSIFIED  │
+│  Bounties Earned: $$$$$       │
+└───────────────────────────────┘
+```
+
+</td>
+<td>
+
+```bash
+┌─[SKILL TREE]──────────────────┐
+│  Web App Testing    ████████  │
+│  Network Pentesting ████████  │
+│  Binary Exploitation ██████   │
+│  Cryptography       ██████    │
+│  Social Engineering ████████  │
+└───────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+### 📊 **SYSTEM METRICS**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashardian&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashardian&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashardian&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" width="50%"/>
+</div>
+
+### 🕸️ **SECURE CHANNELS**
+
+<div align="center">
+
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:your.encrypted@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/yourusername)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🎮 **CAPTURE THE FLAG ACHIEVEMENTS**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashardian&show_icons=true&hide_border=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=radical" width="48%"/>
-</p>
+<div align="center">
+
+```bash
+┌─[CTF SCOREBOARD]─────────────────────────────────────────────┐
+│                                                              │
+│  🏆 TryHackMe: Top 1% Global Ranking                        │
+│  🥇 HackTheBox: Hacker Rank Achieved                        │
+│  🎯 PicoCTF: Multiple Category Winner                       │
+│  💀 OverTheWire: All Wargames Completed                     │
+│  🔥 VulnHub: 100+ Machines Rooted                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### 🚀 **ACTIVE PROJECTS**
+
+- 🔍 **Zero-Day Hunter** - Automated vulnerability scanner
+- 🦠 **Payload Generator** - Custom exploit development framework  
+- 🕷️ **Web Crawler** - Advanced reconnaissance tool
+- 🛡️ **Honeypot Network** - Threat intelligence gathering
+- 📡 **RF Analyzer** - Hardware hacking toolkit
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="30%"/>
-</p>
+<div align="center">
+  
+```bash
+┌─[SYSTEM STATUS]─────────────────────────────────────────────┐
+│                                                            │
+│  [✓] All systems operational                              │
+│  [✓] Firewalls bypassed                                   │
+│  [✓] Encryption cracked                                   │
+│  [✓] Access granted                                       │
+│                                                            │
+│  > Connection established...                              │
+│  > Welcome to the dark side                               │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+**"In a world of locks, be the key. In a world of keys, be the lock picker."**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashardian&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS"/>
+</div>
