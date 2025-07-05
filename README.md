@@ -51,15 +51,12 @@ Clearance: TOP SECRET
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -114,30 +111,10 @@ Clearance: TOP SECRET
 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:your.encrypted@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/yourusername)
 
 </div>
 
 ---
-
-### 🎮 **CAPTURE THE FLAG ACHIEVEMENTS**
-
-<div align="center">
-
-```bash
-┌─[CTF SCOREBOARD]─────────────────────────────────────────────┐
-│                                                              │
-│  🏆 TryHackMe: Top 1% Global Ranking                        │
-│  🥇 HackTheBox: Hacker Rank Achieved                        │
-│  🎯 PicoCTF: Multiple Category Winner                       │
-│  💀 OverTheWire: All Wargames Completed                     │
-│  🔥 VulnHub: 100+ Machines Rooted                           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ### 🚀 **ACTIVE PROJECTS**
 
