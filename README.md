@@ -109,8 +109,10 @@ Clearance: TOP SECRET
 
 <div align="center">
 
-[![OnionMail](https://img.shields.io/badge/OnionMail-7E4798?style=for-the-badge&logo=tor&logoColor=white)](mailto:your.encrypted@onionmail.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![OnionMail](https://img.shields.io/badge/OnionMail-7E4798?style=for-the-badge&logo=tor&logoColor=white)](mailto:your.zerodayguardian@onionmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashardian01)
+
+)
 
 </div>
 
