@@ -109,7 +109,7 @@ Clearance: TOP SECRET
 
 <div align="center">
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:your.encrypted@protonmail.com)
+[![OnionMail](https://img.shields.io/badge/OnionMail-7E4798?style=for-the-badge&logo=tor&logoColor=white)](mailto:your.encrypted@onionmail.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 
 </div>
@@ -121,9 +121,6 @@ Clearance: TOP SECRET
 - 🔍 **Zero-Day Hunter** - Automated vulnerability scanner
 - 🦠 **Payload Generator** - Custom exploit development framework  
 - 🕷️ **Web Crawler** - Advanced reconnaissance tool
-- 🛡️ **Honeypot Network** - Threat intelligence gathering
-- 📡 **RF Analyzer** - Hardware hacking toolkit
-
 ---
 
 <div align="center">
