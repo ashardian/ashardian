@@ -109,7 +109,12 @@ Clearance: TOP SECRET
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashardian&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" width="50%"/>
 </div>
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2772065" style='border:none;'></img>
+<!-- TRYHACKME BADGES (manual) -->
+<div align="center">
+  [![TryHackMe Profile](https://tryhackme.com/badges/user/2772065.png)](https://tryhackme.com/p/2772065)
+</div>
+
+
 
 ### 🕸️ **SECURE CHANNELS**
 
