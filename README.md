@@ -111,7 +111,8 @@ Clearance: TOP SECRET
 
 <!-- TRYHACKME BADGES (manual) -->
 <div align="center">
-  [![TryHackMe Profile](https://tryhackme.com/badges/user/2772065.png)](https://tryhackme.com/p/2772065)
+  [![TryHackMe Profile]<img src="https://tryhackme-badges.s3.amazonaws.com/ashardian.png" alt="Your Image Badge" />
+
 </div>
 
 
