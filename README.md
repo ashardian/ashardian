@@ -98,20 +98,8 @@ Clearance: TOP SECRET
 <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
 </br>
 
-### 📊 **SYSTEM METRICS**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashardian&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashardian&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashardian&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" width="50%"/>
-</div>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ashardian.png" alt="Your Image Badge" />
-
-
 
 
 ### 🕸️ **SECURE CHANNELS**
