@@ -173,8 +173,8 @@ Contact:    zerodayguardian@onionmail.com
 
 <div align="center">
 
-![Ashar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashardian&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashardian&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
+![Ashar's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ashardian&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashardian&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ashardian.png" alt="TryHackMe — ashardian" />
 
