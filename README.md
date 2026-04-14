@@ -203,18 +203,18 @@ Contact:    zerodayguardian@onionmail.com
 
 ```bash
 ┌─[SYSTEM STATUS]─────────────────────────────────────────────┐
-│                                                              │
+│                                                             │
 │  [✓] Penetration testing ops: ACTIVE                        │
 │  [✓] Bug bounty hunting: IN PROGRESS                        │
 │  [✓] Tor hidden service: OPERATIONAL                        │
 │  [✓] OPSEC layers: VERIFIED                                 │
 │  [✓] Neural Sentry IDS: WATCHING                            │
-│                                                              │
-│  > Ashar Dian | Cybersecurity Specialist |          │
-│  > Penetration Tester | Privacy Researcher | Tor             │
-│  > github.com/ashardian | ashardian/OnionSite-Aegis          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+│                                                             │
+│  > Ashar Dian | Cybersecurity Specialist |                  │
+│  > Penetration Tester | Privacy Researcher | Tor            │
+│  > github.com/ashardian | ashardian/OnionSite-Aegis         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 **"In a world of locks, be the key. In a world of keys, be the lock picker."**
